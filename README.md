@@ -13,45 +13,6 @@
 
 <div align="center">
 
-# ◈ ORION
-### NEXT GENERATION ARTIFICIAL INTELLIGENCE
-
-**A new vision for personal AI.**
-
-An evolving AI assistant focused on intelligent interaction,  
-automation, local AI integration, and immersive 3D experiences.
-
-<br>
-
-<img src="https://api.dicebear.com/10.x/shapes/svg?seed=ORION-NEURAL-CORE&backgroundColor=050816&shape1Color=38bdf8&shape2Color=8b5cf6&shape3Color=22d3ee" width="180" alt="ORION Neural Core"/>
-
-<br>
-
-`ARTIFICIAL INTELLIGENCE` · `THREE.JS` · `LOCAL AI` · `AUTOMATION`
-
-<br>
-
-**Designed to evolve. Built to explore what's next.**
-
-</div>
-
-
-
-```python
-class NicolasHolanda:
-    def __init__(self):
-        self.education = "Information Technology Management"
-        self.interests = [
-            "Artificial Intelligence",
-            "Python Development",
-            "Software Engineering",
-            "Databases and Automation"
-        ]
-        self.mindset = "Learn by building"
-        self.mission = "Create useful digital solutions"
-
-    def next_level(self):
-        return "Learn, build, test, improve"
 
 
 developer = NicolasHolanda()
