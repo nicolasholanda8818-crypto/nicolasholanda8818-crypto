@@ -10,9 +10,23 @@
 
 ---
 
+*Curiosity is the interface. Knowledge is the system. Innovation is the mission.*
 
-<div align="center">
+```python
+class NicolasHolanda:
+    def __init__(self):
+        self.education = "Information Technology Management"
+        self.interests = [
+            "Artificial Intelligence",
+            "Python Development",
+            "Software Engineering",
+            "Databases and Automation"
+        ]
+        self.mindset = "Learn by building"
+        self.mission = "Create useful digital solutions"
 
+    def next_level(self):
+        return "Learn, build, test, improve"
 
 
 developer = NicolasHolanda()
@@ -171,3 +185,4 @@ flowchart TD
 *Every great system starts with a first line of code.*
 
 ![Neon footer](https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:00F5FF,45:4C1D95,100:050816)
+
