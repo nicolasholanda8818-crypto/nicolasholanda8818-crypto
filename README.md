@@ -10,14 +10,31 @@
 
 ---
 
-## `01 // DEVELOPER IDENTITY`
 
-![ORION.exe — Digital AI Mascot](https://api.dicebear.com/10.x/bottts/svg?seed=ORIONCyberLab&backgroundColor=050816&eyes=glow&mouth=smile)
+<div align="center">
 
+# ◈ ORION
+### NEXT GENERATION ARTIFICIAL INTELLIGENCE
 
-### NIKO.exe — DIGITAL EXPLORER
+**A new vision for personal AI.**
 
-*Curiosity is the interface. Knowledge is the system. Innovation is the mission.*
+An evolving AI assistant focused on intelligent interaction,  
+automation, local AI integration, and immersive 3D experiences.
+
+<br>
+
+<img src="https://api.dicebear.com/10.x/shapes/svg?seed=ORION-NEURAL-CORE&backgroundColor=050816&shape1Color=38bdf8&shape2Color=8b5cf6&shape3Color=22d3ee" width="180" alt="ORION Neural Core"/>
+
+<br>
+
+`ARTIFICIAL INTELLIGENCE` · `THREE.JS` · `LOCAL AI` · `AUTOMATION`
+
+<br>
+
+**Designed to evolve. Built to explore what's next.**
+
+</div>
+
 
 
 ```python
