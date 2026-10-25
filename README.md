@@ -12,11 +12,12 @@
 
 ## `01 // DEVELOPER IDENTITY`
 
-![NIKO.exe robot mascot](https://api.dicebear.com/9.x/bottts-neutral/svg?seed=NikoCyberLab&backgroundColor=050816&eyes=bulging&mouth=smile)
+![NIKO.exe — Digital Robot Mascot](https://api.dicebear.com/10.x/bottts/svg?seed=NikoCyberLab&backgroundColor=050816&eyes=glow&mouth=smile)
 
 ### NIKO.exe — DIGITAL EXPLORER
 
 *Curiosity is the interface. Knowledge is the system. Innovation is the mission.*
+
 
 ```python
 class NicolasHolanda:
