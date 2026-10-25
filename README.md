@@ -1,211 +1,209 @@
+# ⚡ NICOLAS HOLANDA | AI & SOFTWARE ENGINEERING
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:050014,20:180047,45:3B0764,70:075985,100:00F5FF&text=Nicolas%20Lopes&fontColor=FFFFFF&fontSize=52&fontAlignY=36&desc=ARTIFICIAL%20INTELLIGENCE%20%7C%20SOFTWARE%20%7C%20AUTOMATION&descAlignY=58&descSize=13&animation=fadeIn" width="100%" alt="Nicolas Lopes - Neon AI Cyber Lab"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,30:111C44,65:4C1D95,100:00F5FF&text=NICOLAS%20HOLANDA&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=AI%20%7C%20PYTHON%20%7C%20SOFTWARE%20ENGINEERING&descAlignY=58&descSize=15&animation=fadeIn" width="100%" alt="Banner futurista Nicolas Holanda"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2400&pause=650&color=00F5FF&center=true&vCenter=true&width=750&lines=%3E+SYSTEM+ONLINE...;%3E+AI+ASSISTANT+DEVELOPMENT;%3E+SOFTWARE+%2B+INTELLIGENT+AUTOMATION;%3E+BUILDING+THE+FUTURE%2C+ONE+PROJECT+AT+A+TIME" alt="Neon animated terminal"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=800&color=00F5FF&center=true&vCenter=true&width=800&lines=Transformando+ideias+em+tecnologia;Construindo+solu%C3%A7%C3%B5es+com+Python;Explorando+Intelig%C3%AAncia+Artificial;Desenvolvendo+projetos+com+prop%C3%B3sito;Welcome+to+my+digital+universe..." alt="Animação de apresentação"/>
 
 <br/>
 
-<a href="https://github.com/nicolasholanda8818-crypto?tab=repositories">
-<img src="https://img.shields.io/badge/⌘_EXPLORE_PROJECTS-00F5FF?style=for-the-badge&labelColor=09001A&color=00F5FF" alt="Explore projects"/>
-</a>
 <a href="https://github.com/nicolasholanda8818-crypto">
-<img src="https://img.shields.io/badge/AI_LAB-7C3AED?style=for-the-badge&labelColor=09001A&color=7C3AED" alt="AI Lab"/>
+<img src="https://img.shields.io/badge/GitHub-NEON%20DEVELOPER-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF" alt="GitHub"/>
 </a>
-<a href="https://github.com/nicolasholanda8818-crypto?tab=stars">
-<img src="https://img.shields.io/badge/TECH_EXPLORER-FF36D1?style=for-the-badge&labelColor=09001A&color=FF36D1" alt="Tech explorer"/>
-</a>
+<img src="https://img.shields.io/badge/FOCUS-ARTIFICIAL%20INTELLIGENCE-111C44?style=for-the-badge&logo=openai&logoColor=00F5FF" alt="Inteligência Artificial"/>
+<img src="https://img.shields.io/badge/STATUS-ALWAYS%20LEARNING-241044?style=for-the-badge&logo=target&logoColor=FF36D1" alt="Aprendizado contínuo"/>
 
 </div>
 
 ---
 
-## <img src="https://img.shields.io/badge/01-SYSTEM_PROFILE-00F5FF?style=flat-square&labelColor=09001A" alt="System profile"/>
+## `01 // SYSTEM PROFILE`
 
-```text
-╭──────────────────────────────────────────────╮
-│             DEVELOPER PROFILE                │
-├──────────────────────────────────────────────┤
-│ NAME     : Nicolas Keven Lopes de Holanda    │
-│ FIELD    : Information Technology Management │
-│ FOCUS    : AI / SOFTWARE / AUTOMATION        │
-│ INTEREST : Robotics / Data / Cybersecurity   │
-│ MISSION  : Learn • Build • Test • Innovate   │
-╰──────────────────────────────────────────────╯
+```python
+class NicolasHolanda:
+    def __init__(self):
+        self.role = "IT Management Student"
+        self.focus = [
+            "Artificial Intelligence",
+            "Python Development",
+            "Software Engineering",
+            "Databases & Automation"
+        ]
+        self.current_mission = "Build useful technology"
+        self.mindset = "Learn. Build. Improve. Repeat."
+
+    def introduce(self):
+        return "Turning ideas into digital solutions."
+
+me = NicolasHolanda()
 ```
 
-I'm an Information Technology Management student passionate about software development, artificial intelligence, and intelligent automation.
+🎓 Estudante de **Gestão da Tecnologia da Informação**, com interesse em desenvolvimento de software, inteligência artificial, automação e criação de soluções digitais.
 
-My goal is to transform ideas into practical applications, develop my engineering skills, and contribute to innovative technology projects.
+🚀 Meu objetivo é transformar conhecimento em projetos práticos, evoluindo continuamente como desenvolvedor.
 
-- 🤖 **AI Assistants:** conversational systems, assistant architecture, and LLM integration.
-- 🧠 **Prompt Engineering:** instruction design and AI response evaluation.
-- 🐍 **Programming:** Python, problem-solving, and application development.
-- 🗄️ **Data:** SQL, relational databases, and ETL concepts.
-- 🌐 **Web Development:** HTML, CSS, JavaScript, and API integration.
-- ⚙️ **Automation:** workflows, integrations, and process optimization.
-- 🔐 **Cybersecurity:** secure development fundamentals and cryptography.
-- 🎯 **Career Goal:** internship and junior opportunities in technology.
+---
 
-## <img src="https://img.shields.io/badge/02-TECH_STACK-7C3AED?style=flat-square&labelColor=09001A" alt="Tech stack"/>
+## `02 // TECHNOLOGY MATRIX`
 
 <div align="center">
 
-### `PROGRAMMING // WEB`
+### ⚙️ Linguagens & Desenvolvimento
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,ts&theme=dark" alt="Programming and web development"/>
+<img src="https://skillicons.dev/icons?i=python,html,css,js,ts,react,nodejs,flask&theme=dark&perline=8" alt="Tecnologias de desenvolvimento"/>
 
-### `DATABASES // DEVELOPER TOOLS`
+### 🗄️ Dados, Ferramentas & Ambiente
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,git,github,vscode&theme=dark" alt="Databases and developer tools"/>
-
-### `FRAMEWORKS // INFRASTRUCTURE`
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,docker,linux&theme=dark" alt="Frameworks and infrastructure"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode,linux,docker&theme=dark&perline=7" alt="Banco de dados e ferramentas"/>
 
 </div>
 
-<sub>These technologies represent areas of study and interest; practical experience varies by technology.</sub>
+> Tecnologias exibidas representam ferramentas de estudo e interesse. A experiência prática varia conforme cada projeto.
 
-## <img src="https://img.shields.io/badge/03-NEURAL_SYSTEMS-FF36D1?style=flat-square&labelColor=09001A" alt="Neural systems"/>
+---
 
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 AI ASSISTANTS
-
-Conversational interfaces, assistant architecture, and language model integration.
-
-</td>
-<td width="50%">
-
-### 🧠 PROMPT ENGINEERING
-
-Prompt design, structured instructions, and output evaluation.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### ⚡ INTELLIGENT AUTOMATION
-
-API integrations, workflow design, and repetitive task automation.
-
-</td>
-<td width="50%">
-
-### 🗄️ DATA ENGINEERING
-
-SQL, data modeling, relational databases, and ETL fundamentals.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🦾 ROBOTICS
-
-Exploring intelligent systems, robotics concepts, and human-computer interaction.
-
-</td>
-<td width="50%">
-
-### 🛡️ CYBERSECURITY
-
-Learning secure development, information security, and applied cryptography.
-
-</td>
-</tr>
-</table>
-
-## <img src="https://img.shields.io/badge/04-PROJECT_LAB-00F5FF?style=flat-square&labelColor=09001A" alt="Project lab"/>
+## `03 // PROJECTS UNDER DEVELOPMENT`
 
 <details>
 <summary><b>🤖 ORION 2.0 — AI ASSISTANT</b></summary>
 
-An ongoing project exploring an AI assistant with a focus on conversational interaction and user experience.
+<br/>
 
-**Areas of development**
-- AI integration and assistant architecture
-- Interface design and responsive experiences
-- Voice interaction concepts
-- Application reliability and usability
+**Visão:** evoluir um assistente de inteligência artificial com uma experiência mais natural, interface moderna e possibilidade de interação por voz e avatar 3D.
 
-</details>
+**Direções do projeto:**
+- 🧠 Integração com modelos de IA.
+- 🎙️ Exploração de interação por voz.
+- 🧍 Avatar 3D com interface responsiva.
+- 💻 Experiência adaptada para diferentes dispositivos.
+- 🔧 Melhorias graduais, testes e correções.
 
-<details>
-<summary><b>🖨️ MANDA PRINT — DIGITAL PERSONALIZATION</b></summary>
+**Status:** projeto em evolução. Os recursos dependem da implementação e dos testes realizados.
 
-A digital business project focused on personalized products and online customer experience.
-
-**Areas of development**
-- Web application concepts
-- Product presentation and catalog organization
-- E-commerce experience
-- Interface design and automation opportunities
+🔗 **[Acessar repositório do Orion](https://github.com/nicolasholanda8818-crypto/assistente-orion)**
 
 </details>
 
 <details>
-<summary><b>🐍 PYTHON // SQL // AUTOMATION</b></summary>
+<summary><b>🛍️ MANDA PRINT — PERSONALIZAÇÃO DIGITAL</b></summary>
 
-Programming exercises and practical software experiments.
+<br/>
 
-**Focus**
-- Programming logic and application development
-- Database operations and SQL
-- Data processing and ETL concepts
-- API integration and workflow automation
+**Visão:** desenvolver a presença digital de uma marca de produtos personalizados, com foco em uma experiência de compra simples e visual moderno.
+
+**Áreas de desenvolvimento:**
+- 🎨 Identidade visual e apresentação de produtos.
+- 🛒 Experiência de navegação para clientes.
+- 📦 Organização de produtos e catálogo.
+- 📱 Interface adaptável para celular e computador.
+
+**Status:** projeto em desenvolvimento. Funcionalidades disponíveis devem ser conferidas diretamente no repositório público.
+
+🔗 **[Explorar repositórios públicos relacionados à MANDA PRINT](https://github.com/nicolasholanda8818-crypto?tab=repositories)**
 
 </details>
 
-<div align="center">
+<details>
+<summary><b>🐍 PYTHON, DADOS & AUTOMAÇÃO</b></summary>
 
-<a href="https://github.com/nicolasholanda8818-crypto?tab=repositories">
-<img src="https://img.shields.io/badge/ACCESS_ALL_PROJECTS-00F5FF?style=for-the-badge&labelColor=09001A" alt="Access all projects"/>
-</a>
+<br/>
 
-</div>
+Estudos e projetos práticos para desenvolver lógica de programação, trabalhar com dados e criar soluções usando Python.
 
-<sub>Project descriptions summarize areas of work and interest. Visit each repository to inspect its actual implementation, documentation, and technologies.</sub>
+**Focos de aprendizagem:**
+- Python e desenvolvimento de aplicações.
+- SQL e fundamentos de banco de dados.
+- APIs, automação e integração de sistemas.
+- Organização, legibilidade e manutenção de código.
 
-## <img src="https://img.shields.io/badge/05-GITHUB_TELEMETRY-7C3AED?style=flat-square&labelColor=09001A" alt="GitHub telemetry"/>
+🔗 **[Ver meus repositórios](https://github.com/nicolasholanda8818-crypto?tab=repositories)**
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nicolasholanda8818-crypto&show_icons=true&hide_border=true&bg_color=09001A&title_color=00F5FF&icon_color=FF36D1&text_color=E9D5FF&rank_icon=github" alt="GitHub statistics"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasholanda8818-crypto&layout=compact&hide_border=true&bg_color=09001A&title_color=FF36D1&text_color=E9D5FF" alt="Most used languages"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=nicolasholanda8818-crypto&hide_border=true&background=09001A&ring=00F5FF&fire=FF36D1&currStreakLabel=00F5FF&sideLabels=E9D5FF&dates=A78BFA" alt="GitHub contribution streak"/>
-
-</div>
-
-## <img src="https://img.shields.io/badge/06-NEXT_MISSION-FF36D1?style=flat-square&labelColor=09001A" alt="Next mission"/>
-
-- [ ] Build and document portfolio-quality software projects.
-- [ ] Improve Python, SQL, and web development skills.
-- [ ] Develop practical AI-powered applications.
-- [ ] Strengthen testing, debugging, and software architecture.
-- [ ] Explore intelligent automation and robotics.
-- [ ] Learn secure development practices.
-- [ ] Prepare for internship and junior technology roles.
+</details>
 
 ---
 
+## `04 // ORION 2.0 — SYSTEM ARCHITECTURE`
+
+```mermaid
+flowchart TD
+    U(["👤 USER"])
+    UI["💠 Interface Responsiva"]
+    VOICE["🎙️ Voz e Interação"]
+    AI["🧠 Camada de Inteligência Artificial"]
+    AVATAR["🤖 Avatar 3D"]
+    SERVER["⚙️ Servidor / API"]
+    DATA[("🗄️ Dados e Configurações")]
+    TEST["🧪 Testes e Validação"]
+
+    U <--> UI
+    UI <--> VOICE
+    UI <--> AVATAR
+    UI <--> SERVER
+    SERVER <--> AI
+    SERVER <--> DATA
+    SERVER --> TEST
+
+    classDef user fill:#111827,stroke:#00F5FF,color:#FFFFFF
+    classDef interface fill:#101B35,stroke:#7C3AED,color:#FFFFFF
+    classDef intelligence fill:#241044,stroke:#FF36D1,color:#FFFFFF
+    classDef backend fill:#0B2530,stroke:#00F5FF,color:#FFFFFF
+
+    class U user
+    class UI,VOICE,AVATAR interface
+    class AI intelligence
+    class SERVER,DATA,TEST backend
+```
+
+<sub>Diagrama conceitual da arquitetura desejada. Ele não representa uma confirmação de que todos os módulos já estejam implementados ou conectados.</sub>
+
+---
+
+## `05 // GITHUB ACTIVITY`
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2600&pause=700&color=FF36D1&center=true&vCenter=true&width=600&lines=BUILD+THE+FUTURE.;AUTOMATE+THE+REPETITIVE.;MAKE+INTELLIGENCE+USEFUL." alt="Neon closing animation"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=nicolasholanda8818-crypto&show_icons=true&hide_border=true&bg_color=050816&title_color=00F5FF&icon_color=FF36D1&text_color=C9D1D9&rank_icon=github" alt="Estatísticas do GitHub"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00F5FF,45:7C3AED,100:09001A&section=footer" width="100%" alt="Neon footer"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasholanda8818-crypto&layout=compact&hide_border=true&bg_color=050816&title_color=00F5FF&text_color=C9D1D9" alt="Linguagens dos repositórios públicos"/>
 
-<sub>Curiosity drives innovation. Practice turns ideas into solutions.</sub>
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=nicolasholanda8818-crypto&theme=transparent&hide_border=true&background=050816&ring=00F5FF&fire=FF36D1&currStreakLabel=00F5FF&sideLabels=C9D1D9&dates=7D8590" alt="Sequência de atividade no GitHub"/>
+
+</div>
+
+---
+
+## `06 // NEXT OBJECTIVES`
+
+<div align="left">
+
+- [ ] Aprimorar meus projetos em Python.
+- [ ] Aprofundar conhecimentos em SQL e bancos de dados.
+- [ ] Evoluir em engenharia de software.
+- [ ] Explorar aplicações práticas de inteligência artificial.
+- [ ] Melhorar arquitetura, testes e documentação dos projetos.
+- [ ] Construir um portfólio cada vez mais consistente.
+
+</div>
+
+---
+
+## `07 // CONNECT TO MY UNIVERSE`
+
+<div align="center">
+
+<a href="https://github.com/nicolasholanda8818-crypto">
+<img src="https://img.shields.io/badge/GITHUB-EXPLORE%20MY%20CODE-00F5FF?style=for-the-badge&logo=github&logoColor=050816" alt="Explorar meu GitHub"/>
+</a>
+
+<br/><br/>
+
+**💡 Building the future, one project at a time.**
+
+<sub>Curiosity is the beginning. Practice is the evolution.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:4C1D95,100:050816&height=120&section=footer" width="100%" alt="Rodapé futurista"/>
 
 </div>
