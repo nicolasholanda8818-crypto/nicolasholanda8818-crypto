@@ -12,7 +12,8 @@
 
 ## `01 // DEVELOPER IDENTITY`
 
-![NIKO.exe — Digital Robot Mascot](https://api.dicebear.com/10.x/bottts/svg?seed=NikoCyberLab&backgroundColor=050816&eyes=glow&mouth=smile)
+![ORION.exe — Digital AI Mascot](https://api.dicebear.com/10.x/bottts/svg?seed=ORIONCyberLab&backgroundColor=050816&eyes=glow&mouth=smile)
+
 
 ### NIKO.exe — DIGITAL EXPLORER
 
