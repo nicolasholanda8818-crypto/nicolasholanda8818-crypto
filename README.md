@@ -1,188 +1,126 @@
-# ⚡ NICOLAS HOLANDA | NEON AI CYBER LAB
+⚡ NICOLAS HOLANDA | NEON AI CYBER LAB
 
-![Profile banner](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:030712,30:0B1635,65:4C1D95,100:00F5FF&text=NICOLAS%20HOLANDA&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=SOFTWARE%20DEVELOPMENT%20%7C%20ARTIFICIAL%20INTELLIGENCE&descAlignY=58&descSize=15&animation=fadeIn)
+Gestão de TI · Desenvolvimento de Software · Inteligência Artificial
 
-![Typing animation](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=650&color=00F5FF&width=850&lines=BUILDING+IDEAS+INTO+DIGITAL+SOLUTIONS;EXPLORING+AI+AND+SOFTWARE+ENGINEERING;LEARN.+BUILD.+TEST.+EVOLVE.)
+Building ideas into technology. Transformando ideias em tecnologia.
 
-![Profile status](https://img.shields.io/badge/STATUS-ALWAYS%20LEARNING-00F5FF?style=for-the-badge&logo=github&logoColor=050816)
-![Focus](https://img.shields.io/badge/FOCUS-AI%20%26%20SOFTWARE-7C3AED?style=for-the-badge&logo=openai&logoColor=white)
-![Mindset](https://img.shields.io/badge/MINDSET-CONTINUOUS%20GROWTH-FF36D1?style=for-the-badge&logo=target&logoColor=white)
+Bem-vindo ao meu espaço de desenvolvimento! Sou estudante de Gestão de TI e tenho interesse em inteligência artificial, Python, automação e criação de aplicações. Utilizo meus projetos para aprender, experimentar soluções e desenvolver minhas habilidades em engenharia de software.
 
----
-
-*Curiosity is the interface. Knowledge is the system. Innovation is the mission.*
-
-```python
-class NicolasHolanda:
-    def __init__(self):
-        self.education = "Information Technology Management"
-        self.interests = [
-            "Artificial Intelligence",
-            "Python Development",
-            "Software Engineering",
-            "Databases and Automation"
-        ]
-        self.mindset = "Learn by building"
-        self.mission = "Create useful digital solutions"
-
-    def next_level(self):
-        return "Learn, build, test, improve"
-
-
-developer = NicolasHolanda()
-```
-
-I'm an Information Technology Management student interested in software development, artificial intelligence, databases, and automation.
-
-I enjoy exploring new technologies, turning ideas into practical projects, and improving my skills through hands-on learning.
-
-**My goal:** build reliable, useful, and thoughtfully designed digital solutions while growing as a software developer.
+Welcome to my development space! I'm an IT Management student interested in artificial intelligence, Python, automation, and application development. I use my projects to explore solutions, learn new technologies, and continuously improve my software engineering skills.
 
 ---
 
-## `02 // THE TECHNOLOGY MATRIX`
+🪐 SOBRE MIM | ABOUT ME
 
-### 💻 Foundations and Tools
+- 🇧🇷 Estudante de Gestão da Tecnologia da Informação.
 
-![Technologies studied](https://skillicons.dev/icons?i=python,html,css,js,sql,git,github,vscode&theme=dark&perline=8)
+- 🤖 Desenvolvendo e explorando projetos de assistentes de inteligência artificial.
 
-### 🚀 Technologies to Explore and Deepen
+- 🐍 Estudando desenvolvimento com Python e aplicações web.
 
-![Technologies to explore](https://skillicons.dev/icons?i=typescript,react,nodejs,flask,mysql,postgres,docker,linux&theme=dark&perline=8)
+- ⚙️ Interessado em automação, integração de sistemas e arquitetura de software.
 
-| Track | Current direction |
-|---|---|
-| **Programming** | Python, problem-solving, and application development |
-| **Web Development** | HTML, CSS, JavaScript, and responsive interfaces |
-| **Databases** | SQL, data organization, and database fundamentals |
-| **Developer Tools** | Git, GitHub, VS Code, and project documentation |
-| **Artificial Intelligence** | Exploring AI integrations and intelligent assistants |
-| **Software Engineering** | Architecture, testing, maintainability, and good practices |
+- 🌌 Explorando interfaces futuristas e experiências interativas.
 
-*These icons represent technologies studied or targeted for further learning. They do not imply professional proficiency in every listed tool.*
+- 🇺🇸 IT Management student.
 
----
+- 🤖 Exploring personal AI assistant development.
 
-## `03 // FEATURED PROJECTS`
+- 🐍 Learning Python and web application development.
 
-### 🤖 ORION 2.0 — AI ASSISTANT
+- ⚙️ Interested in automation, system integration, and software architecture.
 
-**Category:** Artificial Intelligence · Personal Project
+- 🌌 Exploring futuristic interfaces and interactive experiences.
 
-An evolving AI assistant project focused on a modern interface and a more natural, personalized user experience.
+🚀 PROJETOS EM DESTAQUE | FEATURED PROJECTS
 
-**Project directions**
+🤖 ORION — Personal AI Assistant
 
-- AI model integration and assistant interactions.
-- Exploration of voice-based interaction.
-- A concept for a 3D digital avatar.
-- Responsive experiences across different devices.
-- Incremental improvements, testing, and debugging.
+Projeto de assistente pessoal de IA em desenvolvimento, com foco em evolução contínua, interação com o usuário e integração de tecnologias.
 
-**Status:** In development. Individual features depend on implementation and validation.
+A personal AI assistant project under development, focused on iterative improvement, user interaction, and technology integration.
 
-[![Explore Orion 2.0](https://img.shields.io/badge/EXPLORE-ORION%202.0-00F5FF?style=for-the-badge&logo=github&logoColor=050816)](https://github.com/nicolasholanda8818-crypto/assistente-orion)
+Tecnologias planejadas ou exploradas: Python, FastAPI, Ollama e tecnologias web. A implementação efetiva de cada tecnologia deve ser confirmada no código atual.
 
-### 🛍️ MANDA PRINT — PERSONALIZED PRODUCTS
+"→ Acessar o repositório ORION" (https://github.com/nicolasholanda8818-crypto/assistente-orion)
 
-**Category:** Digital Business · E-commerce Concept
+🐍 Trabalho Python
 
-A project connected to the digital presence of a personalized-products brand, with an interest in product presentation and a user-friendly shopping experience.
+Projeto de desenvolvimento web com Flask, voltado à prática de programação e construção de aplicações.
 
-**Project directions**
+A Flask-based web development project for practicing Python programming and application development.
 
-- Product catalog and visual presentation.
-- Modern, responsive interface design.
-- Exploration of e-commerce workflows.
-- Clear and accessible customer journeys.
+"→ Acessar o repositório" (https://github.com/nicolasholanda8818-crypto/trabalho-python)
 
-**Status:** Project work and repository contents should be reviewed individually before treating specific features as complete.
+💖 MEL_AMOR_NIK
 
-[![Explore public repositories](https://img.shields.io/badge/EXPLORE-MANDA%20PRINT-FF36D1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nicolasholanda8818-crypto?tab=repositories)
+Projeto web criativo. Consulte o código e a documentação para conhecer seus recursos e sua implementação atual.
 
-### 🐍 PYTHON, DATA AND AUTOMATION
+A creative web project. Explore the source code and documentation to understand its current features and implementation.
 
-A collection of programming studies and practical exercises focused on building stronger development fundamentals.
-
-**Learning directions**
-
-- Python programming and problem-solving.
-- SQL and database fundamentals.
-- APIs and service integration.
-- Automation and data processing.
-- Code organization and documentation.
-
-[![Explore repositories](https://img.shields.io/badge/VIEW-PUBLIC%20REPOSITORIES-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nicolasholanda8818-crypto?tab=repositories)
+"→ Acessar o repositório" (https://github.com/nicolasholanda8818-crypto/MEL_AMOR_NIK)
 
 ---
 
-## `04 // ORION 2.0 — SYSTEM BLUEPRINT`
+🧰 TECNOLOGIAS | TECHNOLOGIES
 
-```mermaid
-flowchart TD
-    USER(["USER"])
-    UI["Responsive Interface"]
-    INPUT["Text and Voice Input"]
-    AI["AI Integration Layer"]
-    AVATAR["3D Avatar Concept"]
-    API["Server / API"]
-    DB[("Data Storage")]
-    TEST["Testing and Validation"]
+Áreas de interesse | Areas of interest
 
-    USER <--> UI
-    UI <--> INPUT
-    UI <--> AVATAR
-    UI <--> API
-    API <--> AI
-    API <--> DB
-    API --> TEST
+- Programming: Python, JavaScript
+- Web: HTML, CSS, Flask
+- AI: personal assistants, AI integrations, local AI exploration
+- Tools: Git, GitHub, Visual Studio Code
+- Currently exploring: software architecture, APIs, automation, and testing
 
-    classDef user fill:#071426,stroke:#00F5FF,color:#FFFFFF
-    classDef interface fill:#111C44,stroke:#7C3AED,color:#FFFFFF
-    classDef intelligence fill:#241044,stroke:#FF36D1,color:#FFFFFF
-    classDef backend fill:#0B2530,stroke:#00F5FF,color:#FFFFFF
+Esta lista representa áreas de interesse e tecnologias exploradas; não implica domínio avançado nem integração concluída em todos os projetos.
 
-    class USER user
-    class UI,INPUT,AVATAR interface
-    class AI intelligence
-    class API,DB,TEST backend
-```
-
-*Conceptual target architecture, not a claim that every component is currently implemented or connected.*
+This list represents areas of interest and technologies explored; it does not imply advanced proficiency or completed integration in every project.
 
 ---
 
-## `05 // GITHUB ANALYTICS`
+🧠 MINHA FILOSOFIA | MY PHILOSOPHY
 
-![GitHub profile statistics](https://github-readme-stats.vercel.app/api?username=nicolasholanda8818-crypto&show_icons=true&hide_border=true&bg_color=050816&title_color=00F5FF&icon_color=FF36D1&text_color=C9D1D9&rank_icon=github)
+IDEIA → DESENVOLVIMENTO → TESTES → APRENDIZADO → EVOLUÇÃO
 
-![Most-used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasholanda8818-crypto&layout=compact&hide_border=true&bg_color=050816&title_color=00F5FF&text_color=C9D1D9)
+Acredito que projetos bem desenvolvidos combinam criatividade, código organizado, documentação clara e melhoria contínua.
 
-![GitHub contribution streak](https://streak-stats.demolab.com?user=nicolasholanda8818-crypto&theme=transparent&hide_border=true&background=050816&ring=00F5FF&fire=FF36D1&currStreakLabel=00F5FF&sideLabels=C9D1D9&dates=7D8590)
-
-*Statistics are provided by external services and may occasionally be unavailable. Repository language percentages do not necessarily reflect skill level.*
+I believe good software combines creativity, organized code, clear documentation, and continuous improvement.
 
 ---
 
-## `06 // NEXT MILESTONES`
+📈 OBJETIVOS | GOALS
 
-- [ ] Strengthen Python development skills.
-- [ ] Build more practical web development projects.
-- [ ] Deepen SQL and database knowledge.
-- [ ] Improve software architecture and testing practices.
-- [ ] Explore practical AI integrations.
-- [ ] Document projects clearly and consistently.
-- [ ] Develop a portfolio for internship and junior opportunities.
+- Aprimorar minhas habilidades em Python e desenvolvimento web.
+
+- Evoluir o ORION de forma segura e documentada.
+
+- Aprender boas práticas de testes, versionamento e arquitetura.
+
+- Construir projetos demonstráveis e úteis.
+
+- Compartilhar minha evolução como desenvolvedor.
+
+- Improve my Python and web development skills.
+
+- Evolve ORION through safe, documented iterations.
+
+- Learn software testing, version control, and architecture best practices.
+
+- Build useful, demonstrable projects.
+
+- Share my growth as a developer.
 
 ---
 
-## `07 // CONNECT TO THE DEVELOPER`
+🤝 CONECTE-SE | CONNECT
 
-[![GitHub](https://img.shields.io/badge/GITHUB-EXPLORE%20MY%20WORK-00F5FF?style=for-the-badge&logo=github&logoColor=050816)](https://github.com/nicolasholanda8818-crypto)
+- GitHub: "@nicolasholanda8818-crypto" (https://github.com/nicolasholanda8818-crypto)
+- LinkedIn: "Perfil profissional" (https://www.linkedin.com/in/nicolas-lopes-60a252342)
 
-### `BUILD → LEARN → TEST → AUTOMATE → INNOVATE`
+---
 
-*Every great system starts with a first line of code.*
+<div align="center">NEON AI CYBER LAB
 
-![Neon footer](https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:00F5FF,45:4C1D95,100:050816)
+Innovation through learning. Inovação através do aprendizado. ⚡
 
+</div>
