@@ -1,192 +1,256 @@
 ⚡ NICOLAS HOLANDA | NEON AI CYBER LAB
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,30:0B1F3A,65:6C00FF,100:00E5FF&height=230&section=header&text=NEON%20AI%20CYBER%20LAB&fontSize=35&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Nicolas%20Holanda%20%7C%20Technology%20%7C%20Artificial%20Intelligence&descSize=14&descAlignY=58" width="100%" alt="Neon AI Cyber Lab"/><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=IT+Management+Student;AI+%7C+Python+%7C+Software+Development;BDN+Solu%C3%A7%C3%B5es+Digitais;Building+ORION%2C+My+Personal+AI" alt="Animated introduction"/>"Technology" (https://img.shields.io/badge/TECHNOLOGY-NEON%20AI%20CYBER%20LAB-00E5FF?style=for-the-badge&labelColor=050816)
-"Artificial Intelligence" (https://img.shields.io/badge/FOCUS-ARTIFICIAL%20INTELLIGENCE-8A2BE2?style=for-the-badge&labelColor=050816)
-"Digital Business" (https://img.shields.io/badge/BUSINESS-BDN%20DIGITAL-00FF9C?style=for-the-badge&labelColor=050816)
-
-"SYSTEM ONLINE // WELCOME TO MY DIGITAL UNIVERSE"
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:0F172A,65:6D28D9,100:06B6D4&height=240&section=header&text=NEON%20AI%20CYBER%20LAB&fontSize=36&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=ARTIFICIAL%20INTELLIGENCE%20%7C%20SOFTWARE%20%7C%20CYBERSECURITY&descSize=13&descAlignY=57" width="100%" alt="Neon AI Cyber Lab banner"/><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2800&pause=800&color=00E5FF&center=true&vCenter=true&width=800&lines=IT+MANAGEMENT+STUDENT;AI+%7C+PYTHON+%7C+SOFTWARE+ENGINEERING;CYBERSECURITY+%7C+AUTOMATION+%7C+NETWORKS;FOUNDER%2FBUILDER+AT+BDN+SOLU%C3%87%C3%95ES+DIGITAIS;BUILDING+ORION%2C+MY+PERSONAL+AI" alt="Animated technology introduction"/><br/><img src="https://img.shields.io/badge/AI-INTELLIGENCE-00E5FF?style=for-the-badge&logo=openai&logoColor=white&labelColor=020617"/>
+<img src="https://img.shields.io/badge/CYBERSECURITY-DEFENSE-8B5CF6?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=020617"/>
+<img src="https://img.shields.io/badge/ENGINEERING-INNOVATION-00FF9C?style=for-the-badge&logo=github&logoColor=white&labelColor=020617"/>"SYSTEM ONLINE // WELCOME TO MY DIGITAL UNIVERSE"
 
 Curiosity is the interface. Knowledge is the system. Innovation is the mission.
 
 </div>---
 
-👨‍💻 "01. WHO AM I?"
+👨‍💻 "01. ABOUT ME"
 
-Hello, world! I'm Nicolas Holanda, an IT Management student passionate about technology, software development, artificial intelligence, automation, and digital innovation.
+Hello, world! I'm Nicolas Holanda, an IT Management student passionate about software development, artificial intelligence, cybersecurity, automation, and digital innovation.
 
-I enjoy transforming ideas into practical projects and exploring how software can solve problems, improve processes, and create better digital experiences.
+I enjoy exploring how technology works, transforming ideas into functional projects, and learning how software can solve real-world problems.
 
-My journey combines academic learning, hands-on experimentation, personal projects, and the ambition to build increasingly useful technological solutions.
+My interests combine programming, intelligent systems, operating systems, infrastructure, digital security, and modern user interfaces.
 
-I'm particularly interested in connecting artificial intelligence, software engineering, futuristic interfaces, and business-oriented digital solutions.
+I believe that continuous learning, practical experimentation, and disciplined engineering are essential to building reliable technology.
 
-🧬 About Me
-
-- 🎓 Education: IT Management student.
-- 🤖 Personal AI project: ORION, my evolving AI assistant.
+- 🎓 Education: IT Management.
+- 🤖 Artificial Intelligence: Personal assistant development and AI integrations.
+- 🐍 Programming: Python, web development, and automation.
+- 🔐 Cybersecurity: Security fundamentals, defensive practices, and authorized testing.
+- 🌐 Infrastructure: Operating systems, networking, and software environments.
 - 🏢 Business: BDN Soluções Digitais.
-- 🐍 Development: Python, web applications, and automation.
-- 🌐 Digital solutions: Websites, CRM systems, and AI agents.
-- 🌌 Creative interests: Futuristic interfaces and interactive 3D experiences.
-- 🚀 Goal: Continue developing my technical skills while creating practical technology projects.
+- 🚀 Main personal project: ORION — Personal AI Assistant.
 
 ---
 
-🏢 "02. MY COMPANY — BDN SOLUÇÕES DIGITAIS"
+🌐 "02. NEON COMMAND CENTER"
 
-<div align="center"><img src="https://img.shields.io/badge/BDN-SOLU%C3%87%C3%95ES%20DIGITAIS-00E5FF?style=for-the-badge&labelColor=050816"/>DIGITAL SOLUTIONS. SMARTER POSSIBILITIES.
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:172554,100:581C87&height=90&section=header&text=NEON%20COMMAND%20CENTER&fontSize=25&fontColor=00E5FF" width="100%" alt="Neon Command Center"/></div><table>
+<tr>
+<td width="50%" align="center">🤖 ARTIFICIAL INTELLIGENCE
 
-Building a stronger digital presence through technology.
+<img src="https://img.shields.io/badge/ORION-PERSONAL%20AI-00E5FF?style=for-the-badge&labelColor=020617"/>Conversational systems, AI integrations, automation, and intelligent interfaces.
+
+</td>
+<td width="50%" align="center">🔐 CYBERSECURITY
+
+<img src="https://img.shields.io/badge/CYBER-DEFENSIVE%20SECURITY-8B5CF6?style=for-the-badge&labelColor=020617"/>Security fundamentals, networking, hardening, and authorized vulnerability testing.
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">💻 SOFTWARE ENGINEERING
+
+<img src="https://img.shields.io/badge/CODE-BUILD%20%26%20IMPROVE-00FF9C?style=for-the-badge&labelColor=020617"/>Programming, APIs, web applications, and software architecture.
+
+</td>
+<td width="50%" align="center">🏢 DIGITAL BUSINESS
+
+<img src="https://img.shields.io/badge/BDN-DIGITAL%20SOLUTIONS-FFB000?style=for-the-badge&labelColor=020617"/>Digital presence, websites, CRM solutions, and AI agents.
+
+</td>
+</tr>
+</table><div align="center"><img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,git,github,vscode,linux&theme=dark" alt="Technology ecosystem"/></div>---
+
+🏢 "03. BDN SOLUÇÕES DIGITAIS"
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:020617,50:0E7490,100:6D28D9&height=150&section=header&text=BDN%20SOLU%C3%87%C3%95ES%20DIGITAIS&fontSize=29&fontColor=FFFFFF&animation=fadeIn&desc=DIGITAL%20INNOVATION%20%7C%20TECHNOLOGY%20%7C%20AI&descSize=13&descAlignY=75" width="100%" alt="BDN Soluções Digitais banner"/>TECHNOLOGY THAT MOVES BUSINESSES FORWARD
 
 <a href="https://bdn-solu-es-digitais.ai.studio/">
-<img src="https://img.shields.io/badge/VISIT-OUR%20OFFICIAL%20WEBSITE-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=050816" alt="Visit BDN Soluções Digitais"/>
-</a></div>BDN Soluções Digitais is my business initiative focused on the digital world, with an online presence highlighting websites, CRM, and AI agents.
+<img src="https://img.shields.io/badge/🌐_VISIT_BDN-OPEN_OFFICIAL_WEBSITE-00E5FF?style=for-the-badge&labelColor=020617" alt="Visit BDN official website"/>
+</a></div>BDN Soluções Digitais is my business initiative in the digital technology space.
 
-My vision is to explore how modern technology can help businesses strengthen their online presence, organize customer relationships, and discover new opportunities through digital tools.
+My vision is to explore practical digital solutions that help businesses strengthen their online presence, improve customer relationship management, and discover new opportunities through automation and artificial intelligence.
 
-💡 Areas of Focus
+Areas of interest
 
-- 🌐 Website Development: Digital presence and modern web experiences.
-- 📊 CRM Solutions: Tools and processes for organizing customer relationships.
-- 🤖 AI Agents: Exploring intelligent assistants and automated digital interactions.
-- ⚙️ Digital Innovation: Technology-driven ideas for business needs.
+- 🌐 Websites & Digital Presence — Modern online experiences for businesses.
+- 📊 CRM Solutions — Customer relationship organization and management.
+- 🤖 AI Agents — Intelligent assistants and automated interactions.
+- ⚙️ Digital Automation — Technology-driven workflows and processes.
+- 💡 Digital Innovation — Exploring solutions for real business needs.
 
-<div align="center">"🌐 ACCESS BDN SOLUÇÕES DIGITAIS" (https://bdn-solu-es-digitais.ai.studio/)
+<div align="center">Have a project or business idea?
 
-<sub>Official website · bdn-solu-es-digitais.ai.studio</sub>
+"🌐 Visit BDN Soluções Digitais" (https://bdn-solu-es-digitais.ai.studio/)
 
 </div>---
 
-🤖 "03. ORION — PERSONAL AI ASSISTANT"
+🤖 "04. ORION — PERSONAL AI ASSISTANT"
 
-ORION is my personal AI assistant project, envisioned as an evolving system combining conversational interaction, voice capabilities, and a futuristic interface.
+<div align="center"><img src="https://img.shields.io/badge/PROJECT-ORION-00E5FF?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/INTERFACE-3D%20SPHERICAL%20AI-8B5CF6?style=for-the-badge&labelColor=020617"/></div>ORION is my personal AI assistant project, envisioned as an evolving system combining conversational interaction, voice capabilities, AI integrations, and a futuristic 3D interface.
 
-Its distinctive visual concept is a 3D spherical, planet-like interface, designed to give the assistant a recognizable digital presence.
+One of its central visual concepts is a planet-like digital sphere, giving the assistant a distinctive identity and an immersive way to interact with technology.
 
-The project reflects my interest in combining AI integrations, backend development, interactive interfaces, and natural human–computer interaction.
-
-Areas of development and exploration:
+Project vision
 
 - 🧠 Conversational AI and contextual interaction.
 - 🎙️ Voice input and spoken responses.
-- 🌐 Backend services and AI integrations.
 - 🌌 A futuristic 3D sphere and animated interface.
-- ⚙️ Modular software architecture and continuous improvement.
+- 🔌 AI integrations and backend services.
+- ⚙️ Modular architecture and continuous improvement.
+- 🖥️ Exploration of local AI tools and development environments.
 
 Technologies explored: Python · FastAPI · JavaScript · HTML · CSS · Three.js · AI integrations
 
-<div align="center">"⚡ EXPLORE ORION ON GITHUB" (https://github.com/nicolasholanda8818-crypto/assistente-orion)
-
-</div><sub>ORION is an evolving project. Implemented features and integrations may change during development.</sub>
-
----
-
-🐍 "04. PYTHON WEB DEVELOPMENT"
-
-A practical project focused on web application development using Python and Flask.
-
-It is part of my learning journey in application architecture, programming fundamentals, and the development of functional web solutions.
-
-Technology: Python · Flask · Web Development
-
-"⚡ Explore the Python project" (https://github.com/nicolasholanda8818-crypto/trabalho-python)
+<div align="center"><a href="https://github.com/nicolasholanda8818-crypto/assistente-orion">
+<img src="https://img.shields.io/badge/EXPLORE-ORION%20REPOSITORY-00E5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=020617" alt="Explore ORION repository"/>
+</a></div><sub>ORION is an evolving personal project. Its implemented features and integrations may change as development progresses.</sub>
 
 ---
 
-🧰 "05. TECHNOLOGY ARSENAL"
+🐍 "05. PYTHON WEB DEVELOPMENT"
 
-<div align="center">💻 Programming & Development
+A practical web development project built around Python and Flask.
 
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css,flask,fastapi&theme=dark" alt="Programming technologies"/>⚙️ Tools & Workflow
+This project supports my learning journey in programming, application structure, and web technologies.
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Development tools"/>🧪 Areas of Interest
+Technology focus: Python · Flask · Web Development
 
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Automation-00E5FF?style=flat-square&logo=probot&logoColor=black"/>
-<img src="https://img.shields.io/badge/3D%20Web%20Experiences-FF00FF?style=flat-square&logo=threedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Software%20Engineering-00FF9C?style=flat-square&logo=codefactor&logoColor=black"/>
-<img src="https://img.shields.io/badge/Digital%20Business-FFB000?style=flat-square&logo=googlechrome&logoColor=black"/></div><sub>These technologies reflect my current development interests and learning journey; my experience varies by tool.</sub>
+<div align="center">"⚡ EXPLORE PYTHON PROJECT" (https://github.com/nicolasholanda8818-crypto/trabalho-python)
 
----
+</div>---
 
-🎯 "06. CURRENT MISSION"
+💻 "06. PROGRAMMING LANGUAGES"
 
-MISSION| OBJECTIVE
-🤖 Artificial Intelligence| Explore intelligent applications and AI integrations
-🏢 BDN Soluções Digitais| Develop my business presence in the digital technology space
-🐍 Python Development| Build applications, tools, and automation
-🌐 Web Engineering| Explore responsive interfaces and web experiences
-🧠 Software Architecture| Learn to structure maintainable applications
-🔊 Human–AI Interaction| Explore voice, conversation, and intuitive interfaces
-🛠️ Continuous Improvement| Strengthen testing, documentation, and code quality
+<div align="center"><img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cpp,cs,c,html,css,php,bash,powershell&theme=dark" alt="Programming language icons"/></div>Technology| Area
+Python| Automation, backend, AI projects
+JavaScript| Web applications and interactive interfaces
+TypeScript| Typed JavaScript and application development
+SQL| Database queries and data management
+Java| Object-oriented programming
+C / C++| Systems programming fundamentals
+C#| Application development ecosystem
+HTML5 / CSS3| Web structure and visual design
+Bash| Shell scripting and automation
+PowerShell| Windows administration and automation
 
----
-
-🧠 "07. MY DEVELOPMENT PHILOSOPHY"
-
-<div align="center">       CURIOSITY
-           |
-           v
-          LEARN
-           |
-           v
-          BUILD
-           |
-           v
-          TEST
-           |
-           v
-         IMPROVE
-           |
-           v
-          SHARE
-           |
-           +-------> REPEAT
-
-Understand the problem. Build a solution. Test the result. Improve the system.
-
-</div>I believe progress comes from consistency, curiosity, and the willingness to learn from successful experiments and mistakes alike.
-
-My objective is to keep strengthening my technical foundation while transforming ideas into useful software and digital solutions.
-
-For me, each project is an opportunity to develop new skills, improve my problem-solving, and discover how technology can create value.
+<sub>This is a map of technologies relevant to my development journey, not a claim of professional proficiency in every language.</sub>
 
 ---
 
-🌌 "08. BEYOND THE CODE"
+🖥️ "07. OPERATING SYSTEMS & ENVIRONMENTS"
 
-What motivates me most is the possibility of creating technology that feels useful, intuitive, and meaningful.
+<div align="center"><img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,debian,kali,redhat,apple,android,docker&theme=dark" alt="Operating systems and infrastructure icons"/></div>Systems and environments of interest
 
-I'm particularly interested in the intersection of:
+- 🪟 Windows — Desktop environments, PowerShell, and development workflows.
+- 🐧 Linux — Command-line tools, permissions, services, and system fundamentals.
+- 🟠 Ubuntu / Debian — Linux environments and server fundamentals.
+- 🔴 Fedora / Red Hat — Linux ecosystem and enterprise infrastructure.
+- 🔐 Kali Linux — Security testing in authorized lab environments.
+- 🍎 macOS — Unix-based development environment.
+- 📱 Android — Mobile platform and application ecosystem.
+- 🐳 Docker — Containers and reproducible development environments.
 
-- Intelligence: Systems that can understand context and assist people.
-- Interaction: Digital experiences that feel intuitive and accessible.
-- Creativity: Turning ambitious ideas into tangible projects.
-- Business: Connecting technological possibilities with practical needs.
-- Engineering: Building more organized, reliable, and maintainable software.
-- Innovation: Exploring new ideas while continuing to develop a solid technical foundation.
-
-Through ORION and BDN Soluções Digitais, I want to keep exploring both sides of technology: creating intelligent systems and developing digital solutions with practical applications.
-
-My GitHub represents my projects, my experiments, and my ongoing growth as a technology professional.
+Areas to explore: system administration, process management, permissions, package management, logs, networking, virtualization, and deployment.
 
 ---
 
-📡 "09. CONNECT WITH ME"
+🔐 "08. CYBERSECURITY & DIGITAL DEFENSE"
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:312E81,100:0E7490&height=100&section=header&text=DEFEND%20%7C%20ANALYZE%20%7C%20IMPROVE&fontSize=23&fontColor=00E5FF" width="100%" alt="Cybersecurity banner"/></div>I'm interested in understanding how systems can be protected, how vulnerabilities arise, and how secure development practices can reduce risks.
+
+Security domains
+
+- 🛡️ Defensive Security — Hardening, secure configurations, and risk reduction.
+- 🌐 Network Security — TCP/IP, DNS, HTTP/S, ports, and network fundamentals.
+- 🔑 Identity & Access — Authentication, authorization, MFA, and least privilege.
+- 🔍 Vulnerability Management — Identifying, prioritizing, and remediating weaknesses.
+- 🧪 Ethical Security Testing — Testing systems only with explicit authorization.
+- 🧰 Secure Development — Input validation, dependency management, and secrets protection.
+- 📋 Security Awareness — Phishing prevention, backups, and incident response fundamentals.
+- 📊 Monitoring & Logs — Understanding system events and indicators of suspicious activity.
+
+Security principles
+
+01. KNOW YOUR ENVIRONMENT
+02. REDUCE THE ATTACK SURFACE
+03. APPLY LEAST PRIVILEGE
+04. PATCH AND UPDATE
+05. MONITOR AND INVESTIGATE
+06. BACK UP AND RECOVER
+07. TEST ONLY WITH AUTHORIZATION
+
+Security mindset: protect data, respect privacy, document findings, and prioritize responsible disclosure.
+
+---
+
+🌐 "09. NETWORKS & INFRASTRUCTURE"
+
+Domain| Topics
+Networking| TCP/IP, DNS, DHCP, HTTP/S
+Infrastructure| Servers, services, processes, permissions
+Cloud fundamentals| Hosting, deployment, environment configuration
+Containers| Docker fundamentals and reproducible environments
+Version control| Git, GitHub, branching, commits
+Automation| Bash, PowerShell, Python scripts
+Data| SQL, data modeling, database fundamentals
+
+---
+
+⚙️ "10. DEVELOPMENT TOOLKIT"
+
+<div align="center"><img src="https://skillicons.dev/icons?i=vscode,git,github,docker,postman,fastapi,flask,threejs,mysql,postgres&theme=dark" alt="Development tools and frameworks"/></div>Workflow
+
+IDEA
+  ↓
+RESEARCH
+  ↓
+DESIGN
+  ↓
+DEVELOP
+  ↓
+TEST
+  ↓
+DOCUMENT
+  ↓
+IMPROVE
+  ↓
+DELIVER
+
+My approach is to build incrementally, understand the tools I use, test changes, and improve the reliability and maintainability of my projects.
+
+---
+
+📊 "11. GITHUB ACTIVITY"
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=nicolasholanda8818-crypto&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=00E5FF&icon_color=8B5CF6&text_color=E2E8F0" height="165" alt="GitHub profile statistics"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasholanda8818-crypto&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=00E5FF&text_color=E2E8F0" height="165" alt="Most used languages on public repositories"/><img src="https://streak-stats.demolab.com?user=nicolasholanda8818-crypto&theme=tokyonight&hide_border=true&background=020617&ring=00E5FF&fire=8B5CF6&currStreakLabel=00E5FF" width="90%" alt="GitHub contribution streak"/></div><sub>These cards rely on third-party services and public GitHub data. They may occasionally be unavailable or display incomplete statistics.</sub>
+
+---
+
+🧠 "12. MY ENGINEERING PHILOSOPHY"
+
+<div align="center">LEARN → BUILD → TEST → SECURE → IMPROVE → SHARE
+
+</div>I believe meaningful progress comes from consistency, curiosity, and the willingness to learn from mistakes.
+
+My goal is to strengthen my technical foundation, develop practical solutions, and gradually build more ambitious software systems.
+
+Technology is not just about writing code. It's about understanding problems, making informed decisions, protecting users, and creating solutions that deliver value.
+
+---
+
+🤝 "13. PROFESSIONAL CONNECTIONS"
 
 <div align="center"><a href="https://github.com/nicolasholanda8818-crypto">
-<img src="https://img.shields.io/badge/GitHub-EXPLORE%20MY%20PROJECTS-00E5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=050816" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GITHUB-EXPLORE%20MY%20WORK-00E5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=020617" alt="GitHub profile"/>
 </a><a href="https://www.linkedin.com/in/nicolas-lopes-60a252342">
-<img src="https://img.shields.io/badge/LinkedIn-LET'S%20CONNECT-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050816" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020617" alt="LinkedIn profile"/>
 </a><a href="https://bdn-solu-es-digitais.ai.studio/">
-<img src="https://img.shields.io/badge/BDN-SOLU%C3%87%C3%95ES%20DIGITAIS-00FF9C?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=050816" alt="BDN Soluções Digitais"/>
+<img src="https://img.shields.io/badge/BDN-DIGITAL%20SOLUTIONS-00FF9C?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=020617" alt="BDN Soluções Digitais website"/>
 </a><br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=nicolasholanda8818-crypto&style=for-the-badge&color=00E5FF&label=PROFILE+VIEWS" alt="Profile view counter"/></div>---
+<img src="https://komarev.com/ghpvc/?username=nicolasholanda8818-crypto&style=for-the-badge&color=00E5FF&label=PROFILE+VIEWS" alt="Profile views"/></div>---
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:6C00FF,100:050816&height=120&section=footer" width="100%" alt="Neon gradient footer"/>⚡ NEON AI CYBER LAB
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,45:6D28D9,100:020617&height=140&section=footer&text=BUILD%20THE%20FUTURE&fontSize=27&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="Neon AI Cyber Lab footer"/>⚡ NEON AI CYBER LAB
 
-BUILD THE IDEA. WRITE THE CODE. SHAPE THE FUTURE.
+BUILD THE IDEA. WRITE THE CODE. PROTECT THE SYSTEM. SHAPE THE FUTURE.
 
 Building the future, one project at a time.
 
