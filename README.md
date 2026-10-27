@@ -1,126 +1,76 @@
-⚡ NICOLAS HOLANDA | NEON AI CYBER LAB
+⚡ Nicolas Holanda | NEON AI CYBER LAB
 
-Gestão de TI · Desenvolvimento de Software · Inteligência Artificial
+IT Management Student · AI Development · Python · Software Engineering
 
-Building ideas into technology. Transformando ideias em tecnologia.
+«Curiosity is the interface. Knowledge is the system. Innovation is the mission.»
 
-Bem-vindo ao meu espaço de desenvolvimento! Sou estudante de Gestão de TI e tenho interesse em inteligência artificial, Python, automação e criação de aplicações. Utilizo meus projetos para aprender, experimentar soluções e desenvolver minhas habilidades em engenharia de software.
+I'm an IT Management student focused on software development, artificial intelligence, automation, and practical technology solutions.
 
-Welcome to my development space! I'm an IT Management student interested in artificial intelligence, Python, automation, and application development. I use my projects to explore solutions, learn new technologies, and continuously improve my software engineering skills.
+I enjoy turning ideas into functional projects, learning through experimentation, and improving software through testing, documentation, and iterative development.
 
 ---
 
-🪐 SOBRE MIM | ABOUT ME
+🎯 Current Focus
 
-- 🇧🇷 Estudante de Gestão da Tecnologia da Informação.
+- 🤖 Developing ORION, a personal AI assistant.
+- 🐍 Building applications and automation tools with Python.
+- 🌐 Exploring full-stack development and responsive interfaces.
+- 🧠 Studying AI integrations, software architecture, and data management.
+- 🛠️ Improving code quality, testing, and project documentation.
 
-- 🤖 Desenvolvendo e explorando projetos de assistentes de inteligência artificial.
+---
 
-- 🐍 Estudando desenvolvimento com Python e aplicações web.
-
-- ⚙️ Interessado em automação, integração de sistemas e arquitetura de software.
-
-- 🌌 Explorando interfaces futuristas e experiências interativas.
-
-- 🇺🇸 IT Management student.
-
-- 🤖 Exploring personal AI assistant development.
-
-- 🐍 Learning Python and web application development.
-
-- ⚙️ Interested in automation, system integration, and software architecture.
-
-- 🌌 Exploring futuristic interfaces and interactive experiences.
-
-🚀 PROJETOS EM DESTAQUE | FEATURED PROJECTS
+🚀 Featured Projects
 
 🤖 ORION — Personal AI Assistant
 
-Projeto de assistente pessoal de IA em desenvolvimento, com foco em evolução contínua, interação com o usuário e integração de tecnologias.
+An evolving personal AI assistant project focused on conversational interaction, voice capabilities, and a futuristic interface with a 3D avatar.
 
-A personal AI assistant project under development, focused on iterative improvement, user interaction, and technology integration.
+Technologies: Python · FastAPI · JavaScript · HTML · CSS · Three.js · AI integrations
 
-Tecnologias planejadas ou exploradas: Python, FastAPI, Ollama e tecnologias web. A implementação efetiva de cada tecnologia deve ser confirmada no código atual.
+"⚡ Explore the repository" (https://github.com/nicolasholanda8818-crypto/assistente-orion)
 
-"→ Acessar o repositório ORION" (https://github.com/nicolasholanda8818-crypto/assistente-orion)
+Development status: features and integrations should be verified against the current implementation.
 
-🐍 Trabalho Python
+🐍 Python Web Development
 
-Projeto de desenvolvimento web com Flask, voltado à prática de programação e construção de aplicações.
+A Flask-based web development project demonstrating practical Python application development.
 
-A Flask-based web development project for practicing Python programming and application development.
-
-"→ Acessar o repositório" (https://github.com/nicolasholanda8818-crypto/trabalho-python)
-
-💖 MEL_AMOR_NIK
-
-Projeto web criativo. Consulte o código e a documentação para conhecer seus recursos e sua implementação atual.
-
-A creative web project. Explore the source code and documentation to understand its current features and implementation.
-
-"→ Acessar o repositório" (https://github.com/nicolasholanda8818-crypto/MEL_AMOR_NIK)
+"⚡ Explore the repository" (https://github.com/nicolasholanda8818-crypto/trabalho-python)
 
 ---
 
-🧰 TECNOLOGIAS | TECHNOLOGIES
+🧰 Technologies & Tools
 
-Áreas de interesse | Areas of interest
+Programming: Python · JavaScript · SQL
 
-- Programming: Python, JavaScript
-- Web: HTML, CSS, Flask
-- AI: personal assistants, AI integrations, local AI exploration
-- Tools: Git, GitHub, Visual Studio Code
-- Currently exploring: software architecture, APIs, automation, and testing
+Web: HTML · CSS · Flask · FastAPI
 
-Esta lista representa áreas de interesse e tecnologias exploradas; não implica domínio avançado nem integração concluída em todos os projetos.
+Tools: Git · GitHub · VS Code
 
-This list represents areas of interest and technologies explored; it does not imply advanced proficiency or completed integration in every project.
+Areas of Interest: Artificial Intelligence · Automation · Databases · Software Engineering
+
+Technology lists reflect my current learning and development focus; proficiency varies by tool.
 
 ---
 
-🧠 MINHA FILOSOFIA | MY PHILOSOPHY
+📈 My Development Philosophy
 
-IDEIA → DESENVOLVIMENTO → TESTES → APRENDIZADO → EVOLUÇÃO
+Learn → Build → Test → Improve → Share
 
-Acredito que projetos bem desenvolvidos combinam criatividade, código organizado, documentação clara e melhoria contínua.
-
-I believe good software combines creativity, organized code, clear documentation, and continuous improvement.
+I believe in building useful projects, documenting what I learn, and continuously improving my engineering skills.
 
 ---
 
-📈 OBJETIVOS | GOALS
-
-- Aprimorar minhas habilidades em Python e desenvolvimento web.
-
-- Evoluir o ORION de forma segura e documentada.
-
-- Aprender boas práticas de testes, versionamento e arquitetura.
-
-- Construir projetos demonstráveis e úteis.
-
-- Compartilhar minha evolução como desenvolvedor.
-
-- Improve my Python and web development skills.
-
-- Evolve ORION through safe, documented iterations.
-
-- Learn software testing, version control, and architecture best practices.
-
-- Build useful, demonstrable projects.
-
-- Share my growth as a developer.
-
----
-
-🤝 CONECTE-SE | CONNECT
+🤝 Connect With Me
 
 - GitHub: "@nicolasholanda8818-crypto" (https://github.com/nicolasholanda8818-crypto)
-- LinkedIn: "Perfil profissional" (https://www.linkedin.com/in/nicolas-lopes-60a252342)
+- LinkedIn: "Nicolas Holanda" (https://www.linkedin.com/in/nicolas-lopes-60a252342)
 
 ---
 
-<div align="center">NEON AI CYBER LAB
+<div align="center">⚡ NEON AI CYBER LAB
 
-Innovation through learning. Inovação através do aprendizado. ⚡
+Building the future, one project at a time.
 
 </div>
